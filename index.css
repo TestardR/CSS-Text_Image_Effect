@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,900&display=swap" rel="stylesheet"');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: center;
+  height: 100vh;
+  background: #000;
+}
+
+p {
+  font-size: 10px;
+  line-height: 10px;
+  text-align: justify;
+  background: url("./muhammad-ali-over-liston-940-data.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
